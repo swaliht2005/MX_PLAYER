@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+#blue{
+    height: 300px;
+    width: 300px;
+    background-color:#00d4ff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 500px;
+}
+.white{
+    height:50vh ;
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part2{
+    height: 0%;
+    align-items: center;
+    margin-left: 45px;
+    display: flex;
+    border-top: 75px solid #00d4ff ;
+    border-bottom: 75px solid #00d4ff;
+    border-left: 140px solid white;
+}
